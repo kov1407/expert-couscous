@@ -1,6 +1,6 @@
 {
     "name": "expert-couscous",
-    "description": "For 4PDA.",
+    "description": "For Andrey.",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
